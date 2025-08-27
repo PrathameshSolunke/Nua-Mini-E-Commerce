@@ -24,6 +24,4 @@ npm run build
 npm run preview
 ```
 
-## 🚀 Deploy
-- **Vercel**: Import from Git repo, framework auto-detect (Vite), Deploy.
-- **Netlify**: Build command: `vite build`, Publish dir: `dist`.
+
